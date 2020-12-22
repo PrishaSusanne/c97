@@ -1,0 +1,6 @@
+C:\Users\Prameela>py C:\WHITEHAT\Datascience\c97\countingWords.py
+Enter string:my name is prisha
+Number of words in the string:
+4
+Number of characters in the string:
+17
